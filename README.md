@@ -8,6 +8,9 @@
 ### Создание субтитров 
 [Видео с субтитрами](https://youtu.be/i0OGf-tBfnM)
 
+### Анализ лицензий
+[Анализ лицензий](https://drive.google.com/file/d/10DNd0JNpSnj4aWXykeV0fRMNGYcErFKD/view?usp=sharing)
+
 ### Задание 1.1
 [Конспект по теме "Технологии проведения вебинаров](https://drive.google.com/file/d/1FESxFXdT1mkCJa-3axFdNEzsNbcrcj6T/view?usp=sharing)
 

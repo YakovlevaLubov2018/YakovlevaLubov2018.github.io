@@ -3,7 +3,7 @@
 На этом сайте можно посмотреть итоги проделанной работы студентки 2 курса группы ПО(МОУ)-17 по дисциплине "Информационно-образовательная среда"
 
 
-### Markdown
+### Опорный конспект по теме "Технологии проведения вебинаров"
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

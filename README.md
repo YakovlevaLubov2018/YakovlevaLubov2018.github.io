@@ -4,7 +4,7 @@
 
 
 ### Создание субтитров 
-https://youtu.be/i0OGf-tBfnM
+[Видео с субтитрами](https://youtu.be/i0OGf-tBfnM)
 
 ```markdown
 Syntax highlighted code block

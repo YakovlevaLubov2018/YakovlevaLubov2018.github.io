@@ -5,7 +5,7 @@
 
 ### Создание субтитров 
 
- <iframe height="375" width="600" src="http://https://youtu.be/i0OGf-tBfnM"></iframe>   
+      <iframe height="375" width="600" src="https://www.youtube.com/watch?v=i0OGf-tBfnM&t=32s"></iframe>
 
 ```markdown
 Syntax highlighted code block

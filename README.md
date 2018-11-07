@@ -1,8 +1,7 @@
 ## Добро пожаловать в GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/YakovlevaLubov2018/YakovlevaLubov2018.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+На этом сайте можно посмотреть итоги проделанной работы студентки 2 курса группы ПО(МОУ)-17 по дисциплине "Информационно-образовательная среда
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 

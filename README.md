@@ -31,16 +31,27 @@
 [Бесплатные ИКТ-инструменты для цифрового сторителлинга](https://drive.google.com/file/d/1gxoDztYrl0cT1Hpi6x0vUvDAvyjJpBwz/view?usp=sharing)
 
 ### В.6.1
-Название файла  | Содержание файла
-----------------|----------------------
-style.css       | Пустой файл каскадной таблицы стилей, в который производится сбока необходимых стилей
-reset.css       | Reset CSS от Эрика Мейера
-normalize.css   | Нормалайзер CSS от Nicolas Gallagher
-block.css       | Основные стили блоков системы
-addition.css    | Дополнительные стили
-fontawesome.css | Стили иконочного шрифта
-layout.css      | Основные стили, применительно к определённому сайту
-lightbox.css    | Стили лайтбокса, если таковой используется
-index.html      | Индексный файл для проверки вносимых изменений
 
+![public](media/pubclass.gif)
+<table>
+    <tr>
+        <th/>
+        <th>Класс</th>
+        <th>Описание</th>
+    </tr>
+    <tr>
+        <td> ![public](media/pubclass.gif) </td>
+        <td>
+            <a target="_blank" href="T_ShikiApiLib_ShikiApi.md">ShikiApi</a>
+        </td>
+        <td>Инициализированный экземпляр данного класса означает авторизованного пользователя</td>
+    </tr>
+    <tr>
+        <td>![public](media/pubclass.gif)</td>
+        <td>
+            <a target="_blank" href="T_ShikiApiLib_ShikiApiStatic.md">ShikiApiStatic</a>
+        </td>
+        <td>Статический класс, содержаший в себе методы, не требующие авторизации</td>
+    </tr>
+</table>
 

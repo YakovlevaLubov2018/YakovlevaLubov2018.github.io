@@ -11,3 +11,5 @@
 
 ### Анализ лицензий
 
+###  Задание 3
+[Нормативные акты в области информатизации образовани](https://drive.google.com/file/d/1N1MDIeY7MUP9FCujoWuADa9XP_-JFB1T/view?usp=sharing)

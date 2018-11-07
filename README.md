@@ -15,5 +15,5 @@
 [Нормативные акты в области информатизации образованиz](https://drive.google.com/file/d/1N1MDIeY7MUP9FCujoWuADa9XP_-JFB1T/view?usp=sharing)
 
 ### Задание 8.1
- ![Иллюстрация к проекту](https://talentedme.ru/upload/learning/certificates/certificate_uid_18823_cid_12.jpg)
+ ![Подтверждение о прохождении курса](https://talentedme.ru/upload/learning/certificates/certificate_uid_18823_cid_12.jpg)
 

@@ -6,4 +6,5 @@
 ### Создание субтитров 
 [Видео с субтитрами](https://youtu.be/i0OGf-tBfnM)
 
-
+### Конспект по теме "Технологии проведения вебинаров"
+[Презентация](https://drive.google.com/file/d/1FESxFXdT1mkCJa-3axFdNEzsNbcrcj6T/view?usp=sharing)

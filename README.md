@@ -31,9 +31,5 @@
 [Бесплатные ИКТ-инструменты для цифрового сторителлинга](https://drive.google.com/file/d/1gxoDztYrl0cT1Hpi6x0vUvDAvyjJpBwz/view?usp=sharing)
 
 ### В.6.1
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+
 

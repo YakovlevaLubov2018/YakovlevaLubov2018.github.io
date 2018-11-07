@@ -4,7 +4,7 @@
 
 
 ### Создание субтитров 
-https://www.youtube.com/watch?v=i0OGf-tBfnM&t=32s
+https://youtu.be/i0OGf-tBfnM
 
 ```markdown
 Syntax highlighted code block

@@ -5,7 +5,7 @@
 
 ### Опорный конспект по теме "Технологии проведения вебинаров"
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+BIN +4.35 MB Tekhnologii_provedenia_vebinarov.pptx
 
 ```markdown
 Syntax highlighted code block

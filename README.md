@@ -17,3 +17,5 @@
 ### Задание 8.1
  ![Подтверждение о прохождении курса](https://talentedme.ru/upload/learning/certificates/certificate_uid_18823_cid_12.jpg)
 
+### Задание 11.1
+[Сообщений о перспективных образовательных трендах] (https://drive.google.com/file/d/1DJpCjz-3up-fgq60DcCmATyec9RvsiRq/view?usp=sharing)

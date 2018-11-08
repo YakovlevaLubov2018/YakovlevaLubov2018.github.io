@@ -31,27 +31,8 @@
 [Бесплатные ИКТ-инструменты для цифрового сторителлинга](https://drive.google.com/file/d/1gxoDztYrl0cT1Hpi6x0vUvDAvyjJpBwz/view?usp=sharing)
 
 ### В.6.1
-
-![public](media/pubclass.gif)
-<table>
-    <tr>
-        <th/>
-        <th>Класс</th>
-        <th>Описание</th>
-    </tr>
-    <tr>
-        <td> ![public](media/pubclass.gif) </td>
-        <td>
-            <a target="_blank" href=" Электронная  почта  (E-mail)</a>
-        </td>
-        <td>Инициализированный экземпляр данного класса означает авторизованного пользователя</td>
-    </tr>
-    <tr>
-        <td>![public](media/pubclass.gif)</td>
-        <td>
-            <a target="_blank" href="T_ShikiApiLib_ShikiApiStatic.md">ShikiApiStatic</a>
-        </td>
-        <td>Статический класс, содержаший в себе методы, не требующие авторизации</td>
-    </tr>
-</table>
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 

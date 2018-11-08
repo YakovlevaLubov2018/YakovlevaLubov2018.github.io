@@ -42,7 +42,7 @@
     <tr>
         <td> ![public](media/pubclass.gif) </td>
         <td>
-            <a target="_blank" href="T_ShikiApiLib_ShikiApi.md">ShikiApi</a>
+            <a target="_blank" href=" Электронная  почта  (E-mail)</a>
         </td>
         <td>Инициализированный экземпляр данного класса означает авторизованного пользователя</td>
     </tr>

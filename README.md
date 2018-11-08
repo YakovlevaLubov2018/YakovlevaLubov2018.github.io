@@ -31,8 +31,5 @@
 [Бесплатные ИКТ-инструменты для цифрового сторителлинга](https://drive.google.com/file/d/1gxoDztYrl0cT1Hpi6x0vUvDAvyjJpBwz/view?usp=sharing)
 
 ### В.6.1
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+[Таблица "Коммуникационные сервисы в образовании"](https://drive.google.com/file/d/1FGOAekG3SsDqmvWDR7NWS28YtSsum6nA/view?usp=sharing)
 

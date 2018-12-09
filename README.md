@@ -36,3 +36,5 @@
 ### Задание В.6.1
 [Таблица "Коммуникационные сервисы в образовании"](https://drive.google.com/file/d/1FGOAekG3SsDqmvWDR7NWS28YtSsum6nA/view?usp=sharing)
 
+### Задание В.10.2.
+[Примеры использования мобильных приложений в обучении](https://drive.google.com/file/d/1cQsbdsDN6BQYtUYjJEktgU1A3wg5DEMS/view?usp=sharing)

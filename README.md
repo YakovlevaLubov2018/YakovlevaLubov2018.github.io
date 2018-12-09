@@ -31,7 +31,7 @@
 [Аннотированный обзор открытых коллекций ЭОР для школы ](s://drive.google.com/file/d/1AzpppcbMTgal8L81nqF0cUY2u0aw1b0a/view?usp=sharing)
 
 ### Задание В.5.2
-[Бесплатные ИКТ-инструменты для цифрового сторителлинга](https://drive.google.com/file/d/1gxoDztYrl0cT1Hpi6x0vUvDAvyjJpBwz/view?usp=sharing)
+[Бесплатные ИКТ-инструменты для цифрового сторителлинга] (https://drive.google.com/file/d/1gxoDztYrl0cT1Hpi6x0vUvDAvyjJpBwz/view?usp=sharing)
 
 ### Задание В.6.1
 [Таблица "Коммуникационные сервисы в образовании"](https://drive.google.com/file/d/1FGOAekG3SsDqmvWDR7NWS28YtSsum6nA/view?usp=sharing)

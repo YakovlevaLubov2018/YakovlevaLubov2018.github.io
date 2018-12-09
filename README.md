@@ -17,6 +17,8 @@
 ### Задание 1.2
 На рисунке представлены результаты информатизации образования
  ![Примеры информатизации образования](http://bigpo.ru/potrb/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7+%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9+%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B+%D0%B8%D0%BC%D1%86+%D0%B7%D0%B0+2011-2012+%D1%83%D1%87+%D0%B3%D0%BE%D0%B4b/185996_html_142cb15b.png)
+### Задание 2.1
+[Nребования к информационному обеспечению решения учебных задач](https://drive.google.com/file/d/1o7U5sc8uWu_XAYeE1MVvALHA0ymonLIJ/view?usp=sharing)
 
 ###  Задание 3
 [Нормативные акты в области информатизации образованиz](https://drive.google.com/file/d/1N1MDIeY7MUP9FCujoWuADa9XP_-JFB1T/view?usp=sharing)

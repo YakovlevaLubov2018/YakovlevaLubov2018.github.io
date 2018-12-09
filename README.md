@@ -27,6 +27,9 @@
 ### Задание 11.1
 [Сообщение о перспективных образовательных трендах](https://drive.google.com/file/d/1DJpCjz-3up-fgq60DcCmATyec9RvsiRq/view?usp=sharing)
 
+### Задание 11.2
+[Обзор возможностей решения образовательных задач с применением технологий виртуальной реальности ] (https://drive.google.com/file/d/10Gi8ykgnrCtsTuiYEoL--JPSdVR2wEyE/view?usp=sharing)
+
 ### Задание В.4.1.
 [Аннотированный обзор открытых коллекций ЭОР для школы ](https://drive.google.com/file/d/1AzpppcbMTgal8L81nqF0cUY2u0aw1b0a/view?usp=sharing)
 

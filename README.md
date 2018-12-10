@@ -20,6 +20,8 @@
 ### Задание 2.1
 [Nребования к информационному обеспечению решения учебных задач](https://drive.google.com/file/d/1o7U5sc8uWu_XAYeE1MVvALHA0ymonLIJ/view?usp=sharing)
 
+### Задание 2.2
+[Решение задач с использованием прикладных программ](https://drive.google.com/file/d/193lTEo9bO4PUeiq5hWRab2vwmWLDjzRZ/view?usp=sharing)
 ###  Задание 3
 [Нормативные акты в области информатизации образованиz](https://drive.google.com/file/d/1N1MDIeY7MUP9FCujoWuADa9XP_-JFB1T/view?usp=sharing)
 

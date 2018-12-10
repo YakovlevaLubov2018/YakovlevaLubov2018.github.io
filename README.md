@@ -27,7 +27,8 @@
 ###  Задание 3
 [Нормативные акты в области информатизации образованиz](https://drive.google.com/file/d/1N1MDIeY7MUP9FCujoWuADa9XP_-JFB1T/view?usp=sharing)
 
-### Задание 5.1 [Анализ мультимедийного контента для решения образовательных задач ](https://drive.google.com/file/d/1AV-SpwCX7N9M2JK4HPjGxfCO_EiyrmsR/view?usp=sharing)
+### Задание 5.1 
+[Анализ мультимедийного контента для решения образовательных задач ](https://drive.google.com/file/d/1AV-SpwCX7N9M2JK4HPjGxfCO_EiyrmsR/view?usp=sharing)
 ### Задание 8.1
  ![Подтверждение о прохождении курса](https://talentedme.ru/upload/learning/certificates/certificate_uid_18823_cid_12.jpg)
 
